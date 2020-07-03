@@ -1,0 +1,8 @@
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\bin\Debug\netstandard2.0\ApiRoulette.Core.deps.json
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\bin\Debug\netstandard2.0\ApiRoulette.Core.dll
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\bin\Debug\netstandard2.0\ApiRoulette.Core.pdb
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\obj\Debug\netstandard2.0\ApiRoulette.Core.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\obj\Debug\netstandard2.0\ApiRoulette.Core.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\obj\Debug\netstandard2.0\ApiRoulette.Core.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\obj\Debug\netstandard2.0\ApiRoulette.Core.dll
+C:\Users\Alexander\source\repos\ApiRoulette\ApiRoulette.Core\obj\Debug\netstandard2.0\ApiRoulette.Core.pdb
